@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "m6QS9A+1c/M=",
+  "success": true,
+  "projectFilePath": "D:\\Projetos\\Pessoal\\LabRabbitMQ\\LabRabbitMQ.ConsoleApp\\LabRabbitMQ.ConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\igorb\\.nuget\\packages\\rabbitmq.client\\7.2.2\\rabbitmq.client.7.2.2.nupkg.sha512",
+    "C:\\Users\\igorb\\.nuget\\packages\\system.threading.ratelimiting\\8.0.0\\system.threading.ratelimiting.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

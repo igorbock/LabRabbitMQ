@@ -1,0 +1,11 @@
+@LabRabbitMQAPI_HostAddress = http://localhost:5031
+
+GET {{LabRabbitMQAPI_HostAddress}}/openapi/v1.json
+Accept: application/json
+
+###
+
+GET {{LabRabbitMQAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
