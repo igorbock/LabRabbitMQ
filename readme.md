@@ -15,3 +15,9 @@
   3. Alterar o appsettings.json e appsettings.development.json para receber a ConnectionString;
   4. Subir o container de RabbitMQ para funcionamento do projeto, com o comando: 
   `docker run --rm  -it -p 15672:15672 -p 5672:5672 rabbitmq:3-management`
+
+  #### Acesso ao Docker pelo WSL
+  **Comandos**
+
+  1. `wsl --list` 
+  2. `wsl -d <name-Ubuntu>`
